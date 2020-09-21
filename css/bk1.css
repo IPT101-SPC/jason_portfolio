@@ -1,0 +1,10 @@
+body {
+	background-image: url('../back.jpg');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+
+.ibg
+ {
+	background-image: url('img/back.jpg');
+}
